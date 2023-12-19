@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T21:46:07 PST" name="Default suite" finished-at="2023-12-18T21:46:41 PST" duration-ms="34134">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T21:46:07 PST" name="Default test" finished-at="2023-12-18T21:46:41 PST" duration-ms="34134">
+      <class name="Class">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Class@5876a9af]" started-at="2023-12-18T21:46:07 PST" name="Setup" finished-at="2023-12-18T21:46:07 PST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ClickOnOddNumber()[pri:0, instance:Class@5876a9af]" started-at="2023-12-18T21:46:07 PST" name="ClickOnOddNumber" finished-at="2023-12-18T21:46:25 PST" duration-ms="18333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnOddNumber -->
+        <test-method signature="Multiply()[pri:0, instance:Class@5876a9af]" started-at="2023-12-18T21:46:25 PST" name="Multiply" finished-at="2023-12-18T21:46:41 PST" duration-ms="15733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply -->
+        <test-method is-config="true" signature="Post()[pri:0, instance:Class@5876a9af]" started-at="2023-12-18T21:46:41 PST" name="Post" finished-at="2023-12-18T21:46:41 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
